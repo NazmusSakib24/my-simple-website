@@ -1,0 +1,21 @@
+
+/* div{
+    text-align: center;
+} */
+ title{
+    text-align: center;
+ }
+h3{
+    text-align: center;
+    background-color: rgb(1, 63, 63);
+    /* width: 30%; */
+    margin: 10px 30px 10px 30px;
+    text-align: center;
+    padding: 15 px;
+    color: blueviolet;
+}
+p{
+    background-color: mistyrose;
+    text-align: justify;
+    color:darkmagenta;
+}
